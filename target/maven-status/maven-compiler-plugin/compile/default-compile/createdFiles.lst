@@ -1,0 +1,8 @@
+dashboardServlet.class
+com\example\model\inventoryItem.class
+welcomeServlet.class
+loginServlet.class
+com\example\model\DatabaseUtils.class
+fnb\fnb_managementsystem\resources\JakartaEE8Resource.class
+fnb\fnb_managementsystem\JakartaRestConfiguration.class
+registrationServlet.class
